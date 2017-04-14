@@ -1,0 +1,16 @@
+[
+{
+  "modid": "EasterCraft",
+  "name": "EasterCraft",
+  "description": "An Eastery Mod.",
+  "version": "${0.5}",
+  "mcversion": "${1.7}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["BlueyGames"],
+  "credits": "BlueyGames- Basically built everything in this mod.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
